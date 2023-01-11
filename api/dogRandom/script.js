@@ -1,6 +1,6 @@
-// https://dog.ceo/api/breeds/image/random
-// .then - Promises
-// asynchronous programming
+//https://dog.ceo/api/breeds/image/random
+//.then - Promises
+//asynchronous programming
 
 // stuff you don't have to wait for
 console.log('run 1st')
